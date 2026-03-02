@@ -8,8 +8,8 @@ public:
                 tails.push_back(x);
             else
                 *it = x;
+            if(tails.size() > 2) return true;
         }
-        if(tails.size() > 2) return true;
-        else return false;
+        return false;
     }
 };

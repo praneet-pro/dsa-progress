@@ -18,12 +18,12 @@ class Solution {
 public:
     string minWindow(string s, string t) {
         if(t.size() > s.size()) return "";
-        
+
         unordered_map<char, int> need;
         for(char c : t) need[c]++;
         unordered_map<char, int> window;
         int left = 0, right = 0, required = need.size(), formed = 0;
-        int minLen = INT_MAX, start = 0;
+        int start = 0, minLen = INT_MAX;
 
         while(right < s.size()) {
             window[s[right]]++;
@@ -31,7 +31,7 @@ public:
 
             while(left <= right && formed == required) {
                 if(right - left + 1 < minLen) {
-                    minLen = right - left + 1;
+                    minLen = min(minLen, right - left + 1);
                     start = left;
                 }
                 window[s[left]]--;

@@ -5,11 +5,11 @@ public:
         for(int i = 0; i < nums.size(); i++) {
             hash[nums[i]] = i;
         }
-        
         for(int i = 0; i < nums.size(); i++) {
             int complement = target - nums[i];
-            if(hash.find(complement) != hash.end() && hash[complement] != i)
+            if(hash.find(complement) != hash.end() && hash[complement] != i) {
                 return {i, hash[complement]};
+            }
         }
         return {};
     }

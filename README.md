@@ -17,6 +17,7 @@ Each solution includes comments explaining the core idea and invariant.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/praneet-pro/dsa-progress/tree/main/0011-container-with-most-water/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneet-pro/dsa-progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -41,6 +42,7 @@ Each solution includes comments explaining the core idea and invariant.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/praneet-pro/dsa-progress/tree/main/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -91,5 +93,6 @@ Each solution includes comments explaining the core idea and invariant.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/praneet-pro/dsa-progress/tree/main/0011-container-with-most-water/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneet-pro/dsa-progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->

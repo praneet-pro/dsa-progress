@@ -29,7 +29,6 @@ public:
         stack<int> st;
 
         for(int x : nums2) {
-            // Resolve waiting elements
             while(!st.empty() && x > st.top()) {
                 nxtGreater[st.top()] = x;
                 st.pop();
@@ -37,13 +36,11 @@ public:
             st.push(x);
         }
 
-        // Remaining elements have no next greater
         while(!st.empty()) {
             nxtGreater[st.top()] = -1;
             st.pop();
         }
 
-        // Build answer for nums1
         vector<int> ans;
         for(int x : nums1) {
             ans.push_back(nxtGreater[x]);

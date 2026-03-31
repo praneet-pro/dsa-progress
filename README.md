@@ -60,6 +60,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0001-two-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praneet-pro/dsa-progress/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/praneet-pro/dsa-progress/tree/main/0076-minimum-window-substring/) | Hard |
+| [0202-happy-number](https://github.com/praneet-pro/dsa-progress/tree/main/0202-happy-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/praneet-pro/dsa-progress/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/praneet-pro/dsa-progress/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/praneet-pro/dsa-progress/tree/main/0496-next-greater-element-i/) | Easy |
@@ -91,12 +92,14 @@ Each solution includes comments explaining the core idea and invariant.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/praneet-pro/dsa-progress/tree/main/0202-happy-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/praneet-pro/dsa-progress/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/praneet-pro/dsa-progress/tree/main/0011-container-with-most-water/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneet-pro/dsa-progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/praneet-pro/dsa-progress/tree/main/0202-happy-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

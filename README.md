@@ -19,6 +19,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0001-two-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/praneet-pro/dsa-progress/tree/main/0011-container-with-most-water/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praneet-pro/dsa-progress/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/praneet-pro/dsa-progress/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneet-pro/dsa-progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -81,6 +82,7 @@ Each solution includes comments explaining the core idea and invariant.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praneet-pro/dsa-progress/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/praneet-pro/dsa-progress/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneet-pro/dsa-progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/praneet-pro/dsa-progress/tree/main/0713-subarray-product-less-than-k/) | Medium |

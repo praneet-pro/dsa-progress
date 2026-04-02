@@ -22,9 +22,7 @@ public:
     int findTheLongestSubstring(string s) {
         unordered_map<int, int> firstIndex;
         firstIndex[0] = -1;
-        int ans =  0;
-        int mask = 0;
-
+        int mask = 00000, ans = 0;
         for(int i = 0; i < s.size(); i++) {
             char c = s[i];
             if(c == 'a') mask ^= (1 << 0);

@@ -58,6 +58,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0516-longest-palindromic-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/praneet-pro/dsa-progress/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
+| [1542-find-longest-awesome-substring](https://github.com/praneet-pro/dsa-progress/tree/main/1542-find-longest-awesome-substring/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0496-next-greater-element-i](https://github.com/praneet-pro/dsa-progress/tree/main/0496-next-greater-element-i/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/praneet-pro/dsa-progress/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/praneet-pro/dsa-progress/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
+| [1542-find-longest-awesome-substring](https://github.com/praneet-pro/dsa-progress/tree/main/1542-find-longest-awesome-substring/) | Hard |
 | [1590-make-sum-divisible-by-p](https://github.com/praneet-pro/dsa-progress/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -121,4 +123,5 @@ Each solution includes comments explaining the core idea and invariant.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/praneet-pro/dsa-progress/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
+| [1542-find-longest-awesome-substring](https://github.com/praneet-pro/dsa-progress/tree/main/1542-find-longest-awesome-substring/) | Hard |
 <!---LeetCode Topics End-->

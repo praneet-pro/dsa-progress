@@ -57,6 +57,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0438-find-all-anagrams-in-a-string](https://github.com/praneet-pro/dsa-progress/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/praneet-pro/dsa-progress/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0438-find-all-anagrams-in-a-string](https://github.com/praneet-pro/dsa-progress/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/praneet-pro/dsa-progress/tree/main/0496-next-greater-element-i/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/praneet-pro/dsa-progress/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/praneet-pro/dsa-progress/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/praneet-pro/dsa-progress/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -94,6 +96,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0209-minimum-size-subarray-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/praneet-pro/dsa-progress/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/praneet-pro/dsa-progress/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/praneet-pro/dsa-progress/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/praneet-pro/dsa-progress/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -114,4 +117,8 @@ Each solution includes comments explaining the core idea and invariant.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/praneet-pro/dsa-progress/tree/main/0496-next-greater-element-i/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/praneet-pro/dsa-progress/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 <!---LeetCode Topics End-->

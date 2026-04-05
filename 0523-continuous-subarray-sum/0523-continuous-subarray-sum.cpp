@@ -33,7 +33,7 @@ public:
         for(int i = 0; i < nums.size(); i++) {
             sum += nums[i];
             if(freq.count(sum % k)) {
-                if(i - freq[sum % k] >= 1) return true;
+                if(i - freq[sum % k] > 1) return true;
             }
             else freq[sum % k] = i;
         }

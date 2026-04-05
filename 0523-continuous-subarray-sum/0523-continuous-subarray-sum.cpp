@@ -34,3 +34,13 @@ public:
         return false;
     }
 };
+
+/*   For LC(325) Count the maximum Length of subarray whose sum is equal to k
+
+            if (prefixIndices.count(target))
+                maxLen = max(maxLen, i - prefixIndices[target]);
+        
+            if (prefixIndices.find(currentSum) == prefixIndices.end())
+                prefixIndices[currentSum] = i;
+
+*/

@@ -21,11 +21,10 @@ Space Complexity: O(min(n, k))
 class Solution {
 public:
     bool checkSubarraySum(vector<int>& nums, int k) {
-       if(k == 0) {
-            for(int i = 1; i < nums.size(); i++) {
+        if(k == 0) {
+            for(int i = 0; i < nums.size(); i++) 
                 if(nums[i] == 0 && nums[i - 1] == 0) return true;
-            }
-            return false;
+        return false;
         }
 
         unordered_map<int, int> freq;
@@ -34,8 +33,7 @@ public:
         for(int i = 0; i < nums.size(); i++) {
             sum += nums[i];
             if(freq.count(sum % k)) {
-                if(i - freq[sum % k] > 1)
-                    return true;
+                if(i - freq[sum % k] > 1) return true;
             }
             else freq[sum % k] = i;
         }

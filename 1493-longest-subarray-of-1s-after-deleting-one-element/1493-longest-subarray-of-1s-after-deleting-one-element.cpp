@@ -1,3 +1,17 @@
+/* 
+Sliding Window
+
+Invarient: Find the maximux length of arrays by deleting one element
+
+Approach: 
+- Move the right pointer while counting zeros.
+- Shrink the window when is zeros > 1.
+- Calculate size using the formula (right - left) as 1 element is removed.
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+*/
+
 class Solution {
 public:
     int longestSubarray(vector<int>& nums) {    // Not replace Its DELETE

@@ -30,6 +30,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0713-subarray-product-less-than-k](https://github.com/praneet-pro/dsa-progress/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/praneet-pro/dsa-progress/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/praneet-pro/dsa-progress/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/praneet-pro/dsa-progress/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/praneet-pro/dsa-progress/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -38,6 +39,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0516-longest-palindromic-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/praneet-pro/dsa-progress/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +89,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0713-subarray-product-less-than-k](https://github.com/praneet-pro/dsa-progress/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/praneet-pro/dsa-progress/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/praneet-pro/dsa-progress/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/praneet-pro/dsa-progress/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

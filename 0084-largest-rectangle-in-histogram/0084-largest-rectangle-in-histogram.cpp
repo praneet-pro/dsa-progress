@@ -7,13 +7,13 @@ public:
         for(int i = 0; i < heights.size(); i++) {
             while(!st.empty() && heights[st.top()] > heights[i]) {
                 int height = heights[st.top()];
-                st.pop();
+                st.pop();           // we dont need the height of the bar which is greater
 
                 int width;
                 if(st.empty()) 
                     width = i;
                 else
-                    width = i - st.top() - 1;
+                    width = i - st.top() - 1;       // -1 because we pop the nxt element
 
                 maxArea = max(maxArea, height * width);
             }

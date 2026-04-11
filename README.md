@@ -25,6 +25,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneet-pro/dsa-progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/praneet-pro/dsa-progress/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0496-next-greater-element-i](https://github.com/praneet-pro/dsa-progress/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -40,6 +41,7 @@ Each solution includes comments explaining the core idea and invariant.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/praneet-pro/dsa-progress/tree/main/0322-coin-change/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -145,4 +147,8 @@ Each solution includes comments explaining the core idea and invariant.
 | ------- | ------- |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/praneet-pro/dsa-progress/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [1542-find-longest-awesome-substring](https://github.com/praneet-pro/dsa-progress/tree/main/1542-find-longest-awesome-substring/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/praneet-pro/dsa-progress/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->

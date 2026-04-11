@@ -151,4 +151,12 @@ Each solution includes comments explaining the core idea and invariant.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/praneet-pro/dsa-progress/tree/main/0322-coin-change/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/praneet-pro/dsa-progress/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/praneet-pro/dsa-progress/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->

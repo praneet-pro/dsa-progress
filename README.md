@@ -156,10 +156,23 @@ Each solution includes comments explaining the core idea and invariant.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/praneet-pro/dsa-progress/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/praneet-pro/dsa-progress/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/praneet-pro/dsa-progress/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/praneet-pro/dsa-progress/tree/main/0206-reverse-linked-list/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/praneet-pro/dsa-progress/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/praneet-pro/dsa-progress/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/praneet-pro/dsa-progress/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->

@@ -40,6 +40,7 @@ Each solution includes comments explaining the core idea and invariant.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/praneet-pro/dsa-progress/tree/main/0070-climbing-stairs/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/praneet-pro/dsa-progress/tree/main/0322-coin-change/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -124,6 +125,7 @@ Each solution includes comments explaining the core idea and invariant.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/praneet-pro/dsa-progress/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/praneet-pro/dsa-progress/tree/main/0202-happy-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/praneet-pro/dsa-progress/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -191,4 +193,8 @@ Each solution includes comments explaining the core idea and invariant.
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/praneet-pro/dsa-progress/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->

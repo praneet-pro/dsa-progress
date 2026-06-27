@@ -33,6 +33,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0673-number-of-longest-increasing-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/praneet-pro/dsa-progress/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/praneet-pro/dsa-progress/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/praneet-pro/dsa-progress/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/praneet-pro/dsa-progress/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/praneet-pro/dsa-progress/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/praneet-pro/dsa-progress/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -135,6 +136,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0070-climbing-stairs](https://github.com/praneet-pro/dsa-progress/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/praneet-pro/dsa-progress/tree/main/0202-happy-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/praneet-pro/dsa-progress/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/praneet-pro/dsa-progress/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Two Pointers
 |  |
@@ -177,10 +179,12 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/praneet-pro/dsa-progress/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0973-k-closest-points-to-origin](https://github.com/praneet-pro/dsa-progress/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/praneet-pro/dsa-progress/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0973-k-closest-points-to-origin](https://github.com/praneet-pro/dsa-progress/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -204,4 +208,16 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/praneet-pro/dsa-progress/tree/main/0070-climbing-stairs/) | Easy |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/praneet-pro/dsa-progress/tree/master/0973-k-closest-points-to-origin) |
+## Sorting
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/praneet-pro/dsa-progress/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/praneet-pro/dsa-progress/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

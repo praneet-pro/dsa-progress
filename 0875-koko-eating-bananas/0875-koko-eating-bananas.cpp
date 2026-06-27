@@ -2,7 +2,7 @@ class Solution {
 public:
 
     bool is_pos(vector<int>& piles, int h, int k) {
-        int hrs = 0;
+        long long hrs = 0;
         for(int i = 0; i < piles.size(); i++) {
             hrs += (piles[i] + k - 1) / k;
         }

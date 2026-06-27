@@ -2,7 +2,7 @@ class Solution {
 public:
     int islandPerimeter(vector<vector<int>>& grid) {
         int dr[4] = {-1, 1, 0, 0};
-        int dc[4] = {0, 0, -1, 1};
+        int dc[4] = {0, 0, 1, -1};
         int peri = 0;
 
         int rows = grid.size();

@@ -28,6 +28,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0300-longest-increasing-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/praneet-pro/dsa-progress/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0463-island-perimeter](https://github.com/praneet-pro/dsa-progress/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/praneet-pro/dsa-progress/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/praneet-pro/dsa-progress/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -169,6 +170,7 @@ Each solution includes comments explaining the core idea and invariant.
 | ------- |
 | [0226-invert-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/praneet-pro/dsa-progress/tree/main/0322-coin-change/) | Medium |
+| [0463-island-perimeter](https://github.com/praneet-pro/dsa-progress/tree/master/0463-island-perimeter) |
 ## Linked List
 |  |
 | ------- |
@@ -203,6 +205,7 @@ Each solution includes comments explaining the core idea and invariant.
 | ------- |
 | [0226-invert-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0463-island-perimeter](https://github.com/praneet-pro/dsa-progress/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
 | ------- |
@@ -225,4 +228,8 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/praneet-pro/dsa-progress/tree/master/0973-k-closest-points-to-origin) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/praneet-pro/dsa-progress/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->

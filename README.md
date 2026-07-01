@@ -174,12 +174,14 @@ Each solution includes comments explaining the core idea and invariant.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/praneet-pro/dsa-progress/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/praneet-pro/dsa-progress/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/praneet-pro/dsa-progress/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/praneet-pro/dsa-progress/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/praneet-pro/dsa-progress/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/praneet-pro/dsa-progress/tree/main/0206-reverse-linked-list/) | Easy |
 ## Divide and Conquer
 |  |

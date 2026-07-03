@@ -179,6 +179,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0141-linked-list-cycle](https://github.com/praneet-pro/dsa-progress/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/praneet-pro/dsa-progress/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/praneet-pro/dsa-progress/tree/main/0206-reverse-linked-list/) | Easy |
+| [0707-design-linked-list](https://github.com/praneet-pro/dsa-progress/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -236,4 +237,8 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/praneet-pro/dsa-progress/tree/master/0463-island-perimeter) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/praneet-pro/dsa-progress/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@ Each solution includes comments explaining the core idea and invariant.
 | ------- |
 | [0001-two-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/praneet-pro/dsa-progress/tree/main/0011-container-with-most-water/) | Medium |
+| [0078-subsets](https://github.com/praneet-pro/dsa-progress/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/praneet-pro/dsa-progress/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/praneet-pro/dsa-progress/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0136-single-number](https://github.com/praneet-pro/dsa-progress/tree/master/0136-single-number) |
@@ -164,6 +165,7 @@ Each solution includes comments explaining the core idea and invariant.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/praneet-pro/dsa-progress/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/praneet-pro/dsa-progress/tree/master/0136-single-number) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/praneet-pro/dsa-progress/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [1542-find-longest-awesome-substring](https://github.com/praneet-pro/dsa-progress/tree/main/1542-find-longest-awesome-substring/) | Hard |
@@ -244,4 +246,8 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/praneet-pro/dsa-progress/tree/master/0707-design-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/praneet-pro/dsa-progress/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

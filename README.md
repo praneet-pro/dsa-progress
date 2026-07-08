@@ -23,6 +23,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/praneet-pro/dsa-progress/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/praneet-pro/dsa-progress/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0136-single-number](https://github.com/praneet-pro/dsa-progress/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/praneet-pro/dsa-progress/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praneet-pro/dsa-progress/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/praneet-pro/dsa-progress/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneet-pro/dsa-progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -175,6 +176,7 @@ Each solution includes comments explaining the core idea and invariant.
 | ------- |
 | [0078-subsets](https://github.com/praneet-pro/dsa-progress/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/praneet-pro/dsa-progress/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/praneet-pro/dsa-progress/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/praneet-pro/dsa-progress/tree/master/0260-single-number-iii) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/praneet-pro/dsa-progress/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [1542-find-longest-awesome-substring](https://github.com/praneet-pro/dsa-progress/tree/main/1542-find-longest-awesome-substring/) | Hard |

@@ -25,6 +25,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praneet-pro/dsa-progress/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/praneet-pro/dsa-progress/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneet-pro/dsa-progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/praneet-pro/dsa-progress/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/praneet-pro/dsa-progress/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -142,6 +143,7 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/praneet-pro/dsa-progress/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/praneet-pro/dsa-progress/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/praneet-pro/dsa-progress/tree/main/0202-happy-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/praneet-pro/dsa-progress/tree/master/0973-k-closest-points-to-origin) |
@@ -152,6 +154,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0011-container-with-most-water](https://github.com/praneet-pro/dsa-progress/tree/main/0011-container-with-most-water/) | Medium |
 | [0141-linked-list-cycle](https://github.com/praneet-pro/dsa-progress/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneet-pro/dsa-progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/praneet-pro/dsa-progress/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/praneet-pro/dsa-progress/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/praneet-pro/dsa-progress/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/praneet-pro/dsa-progress/tree/master/0532-k-diff-pairs-in-an-array) |

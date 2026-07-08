@@ -29,6 +29,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0189-rotate-array](https://github.com/praneet-pro/dsa-progress/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/praneet-pro/dsa-progress/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0260-single-number-iii](https://github.com/praneet-pro/dsa-progress/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/praneet-pro/dsa-progress/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -174,6 +175,7 @@ Each solution includes comments explaining the core idea and invariant.
 | ------- |
 | [0078-subsets](https://github.com/praneet-pro/dsa-progress/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/praneet-pro/dsa-progress/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/praneet-pro/dsa-progress/tree/master/0260-single-number-iii) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/praneet-pro/dsa-progress/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [1542-find-longest-awesome-substring](https://github.com/praneet-pro/dsa-progress/tree/main/1542-find-longest-awesome-substring/) | Hard |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/praneet-pro/dsa-progress/tree/master/2220-minimum-bit-flips-to-convert-number) |

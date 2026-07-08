@@ -41,6 +41,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [1004-max-consecutive-ones-iii](https://github.com/praneet-pro/dsa-progress/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/praneet-pro/dsa-progress/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/praneet-pro/dsa-progress/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/praneet-pro/dsa-progress/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/praneet-pro/dsa-progress/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/praneet-pro/dsa-progress/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/praneet-pro/dsa-progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -235,6 +236,7 @@ Each solution includes comments explaining the core idea and invariant.
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/praneet-pro/dsa-progress/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/praneet-pro/dsa-progress/tree/master/0973-k-closest-points-to-origin) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/praneet-pro/dsa-progress/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Quickselect
 |  |
 | ------- |

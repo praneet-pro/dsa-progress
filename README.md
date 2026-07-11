@@ -94,6 +94,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0003-longest-substring-without-repeating-characters](https://github.com/praneet-pro/dsa-progress/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/praneet-pro/dsa-progress/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/praneet-pro/dsa-progress/tree/main/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/praneet-pro/dsa-progress/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/praneet-pro/dsa-progress/tree/main/0202-happy-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/praneet-pro/dsa-progress/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/praneet-pro/dsa-progress/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -198,6 +199,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/praneet-pro/dsa-progress/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/praneet-pro/dsa-progress/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/praneet-pro/dsa-progress/tree/main/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/praneet-pro/dsa-progress/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/praneet-pro/dsa-progress/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/praneet-pro/dsa-progress/tree/main/0206-reverse-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/praneet-pro/dsa-progress/tree/master/0622-design-circular-queue) |
@@ -264,6 +266,7 @@ Each solution includes comments explaining the core idea and invariant.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/praneet-pro/dsa-progress/tree/master/0146-lru-cache) |
 | [0622-design-circular-queue](https://github.com/praneet-pro/dsa-progress/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/praneet-pro/dsa-progress/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/praneet-pro/dsa-progress/tree/master/0933-number-of-recent-calls) |
@@ -280,4 +283,8 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/praneet-pro/dsa-progress/tree/master/0933-number-of-recent-calls) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/praneet-pro/dsa-progress/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

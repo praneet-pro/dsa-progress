@@ -265,6 +265,7 @@ Each solution includes comments explaining the core idea and invariant.
 | ------- |
 | [0622-design-circular-queue](https://github.com/praneet-pro/dsa-progress/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/praneet-pro/dsa-progress/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/praneet-pro/dsa-progress/tree/master/0933-number-of-recent-calls) |
 ## Backtracking
 |  |
 | ------- |
@@ -273,4 +274,9 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/praneet-pro/dsa-progress/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/praneet-pro/dsa-progress/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/praneet-pro/dsa-progress/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->

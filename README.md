@@ -30,6 +30,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0189-rotate-array](https://github.com/praneet-pro/dsa-progress/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/praneet-pro/dsa-progress/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/praneet-pro/dsa-progress/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/praneet-pro/dsa-progress/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/praneet-pro/dsa-progress/tree/main/0322-coin-change/) | Medium |
@@ -112,6 +113,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0003-longest-substring-without-repeating-characters](https://github.com/praneet-pro/dsa-progress/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/praneet-pro/dsa-progress/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/praneet-pro/dsa-progress/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/praneet-pro/dsa-progress/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/praneet-pro/dsa-progress/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/praneet-pro/dsa-progress/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -219,6 +221,7 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/praneet-pro/dsa-progress/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/praneet-pro/dsa-progress/tree/master/0239-sliding-window-maximum) |
 | [0973-k-closest-points-to-origin](https://github.com/praneet-pro/dsa-progress/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
@@ -277,6 +280,7 @@ Each solution includes comments explaining the core idea and invariant.
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/praneet-pro/dsa-progress/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/praneet-pro/dsa-progress/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/praneet-pro/dsa-progress/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
@@ -287,4 +291,8 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/praneet-pro/dsa-progress/tree/master/0146-lru-cache) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/praneet-pro/dsa-progress/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

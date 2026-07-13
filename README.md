@@ -19,6 +19,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0001-two-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/praneet-pro/dsa-progress/tree/main/0011-container-with-most-water/) | Medium |
 | [0056-merge-intervals](https://github.com/praneet-pro/dsa-progress/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/praneet-pro/dsa-progress/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/praneet-pro/dsa-progress/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/praneet-pro/dsa-progress/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/praneet-pro/dsa-progress/tree/main/0084-largest-rectangle-in-histogram/) | Hard |

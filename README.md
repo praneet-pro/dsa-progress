@@ -151,6 +151,7 @@ Each solution includes comments explaining the core idea and invariant.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/praneet-pro/dsa-progress/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/praneet-pro/dsa-progress/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/praneet-pro/dsa-progress/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/praneet-pro/dsa-progress/tree/main/0202-happy-number/) | Easy |
@@ -197,6 +198,7 @@ Each solution includes comments explaining the core idea and invariant.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/praneet-pro/dsa-progress/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/praneet-pro/dsa-progress/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/praneet-pro/dsa-progress/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/praneet-pro/dsa-progress/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -210,6 +212,7 @@ Each solution includes comments explaining the core idea and invariant.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/praneet-pro/dsa-progress/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/praneet-pro/dsa-progress/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/praneet-pro/dsa-progress/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/praneet-pro/dsa-progress/tree/main/0206-reverse-linked-list/) | Easy |

@@ -8,6 +8,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
     ListNode* revList(ListNode* head) {
@@ -24,6 +25,8 @@ public:
     }
 
     bool isPalindrome(ListNode* head) {
+        // O(1) Space Complexity
+    
         ListNode* slow = head;
         ListNode* fast = head;
         ListNode* temp = head;
@@ -36,12 +39,16 @@ public:
        ListNode* newHead = revList(slow);
 
         while(newHead != nullptr) {
-            if(newHead->val != temp->val) 
+            // GOOD PRACTICE PREVENTS THE MODIFICATION OF THE DATA
+            if(newHead->val != temp->val) { 
+                newHead = revList(slow);
                 return false;
+            }
 
             newHead = newHead->next;
             temp = temp->next;
         }
+        newHead = revList(slow);
         return true;
     }
 };

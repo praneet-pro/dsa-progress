@@ -158,6 +158,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0523-continuous-subarray-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/praneet-pro/dsa-progress/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/praneet-pro/dsa-progress/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/praneet-pro/dsa-progress/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -216,6 +217,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0622-design-circular-queue](https://github.com/praneet-pro/dsa-progress/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/praneet-pro/dsa-progress/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/praneet-pro/dsa-progress/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/praneet-pro/dsa-progress/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |

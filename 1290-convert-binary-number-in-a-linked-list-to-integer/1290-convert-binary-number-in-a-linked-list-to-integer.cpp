@@ -15,6 +15,7 @@ public:
         long long total = 0;
 
         while(temp != nullptr) {
+            // '<<' multiplies by 2 & '|' drops a 1 directly at newly opened spot
             total = (total << 1) | temp->val;
             temp = temp->next;
         }

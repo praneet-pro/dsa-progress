@@ -170,6 +170,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0234-palindrome-linked-list](https://github.com/praneet-pro/dsa-progress/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/praneet-pro/dsa-progress/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/praneet-pro/dsa-progress/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0876-middle-of-the-linked-list](https://github.com/praneet-pro/dsa-progress/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -214,6 +215,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0234-palindrome-linked-list](https://github.com/praneet-pro/dsa-progress/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/praneet-pro/dsa-progress/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/praneet-pro/dsa-progress/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/praneet-pro/dsa-progress/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |

@@ -165,6 +165,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0011-container-with-most-water](https://github.com/praneet-pro/dsa-progress/tree/main/0011-container-with-most-water/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/praneet-pro/dsa-progress/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/praneet-pro/dsa-progress/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/praneet-pro/dsa-progress/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneet-pro/dsa-progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/praneet-pro/dsa-progress/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/praneet-pro/dsa-progress/tree/main/0202-happy-number/) | Easy |
@@ -177,6 +178,7 @@ Each solution includes comments explaining the core idea and invariant.
 | ------- |
 | [0020-valid-parentheses](https://github.com/praneet-pro/dsa-progress/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/praneet-pro/dsa-progress/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0143-reorder-list](https://github.com/praneet-pro/dsa-progress/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/praneet-pro/dsa-progress/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/praneet-pro/dsa-progress/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
@@ -210,6 +212,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/praneet-pro/dsa-progress/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/praneet-pro/dsa-progress/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/praneet-pro/dsa-progress/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/praneet-pro/dsa-progress/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/praneet-pro/dsa-progress/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/praneet-pro/dsa-progress/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/praneet-pro/dsa-progress/tree/main/0206-reverse-linked-list/) | Easy |
@@ -223,6 +226,7 @@ Each solution includes comments explaining the core idea and invariant.
 | ------- |
 | [0002-add-two-numbers](https://github.com/praneet-pro/dsa-progress/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/praneet-pro/dsa-progress/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/praneet-pro/dsa-progress/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/praneet-pro/dsa-progress/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/praneet-pro/dsa-progress/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/praneet-pro/dsa-progress/tree/master/0234-palindrome-linked-list) |

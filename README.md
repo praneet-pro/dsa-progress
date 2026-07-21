@@ -96,6 +96,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0003-longest-substring-without-repeating-characters](https://github.com/praneet-pro/dsa-progress/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/praneet-pro/dsa-progress/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/praneet-pro/dsa-progress/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/praneet-pro/dsa-progress/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/praneet-pro/dsa-progress/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/praneet-pro/dsa-progress/tree/main/0202-happy-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/praneet-pro/dsa-progress/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -165,6 +166,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0011-container-with-most-water](https://github.com/praneet-pro/dsa-progress/tree/main/0011-container-with-most-water/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/praneet-pro/dsa-progress/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/praneet-pro/dsa-progress/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/praneet-pro/dsa-progress/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/praneet-pro/dsa-progress/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneet-pro/dsa-progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/praneet-pro/dsa-progress/tree/master/0189-rotate-array) |
@@ -212,6 +214,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/praneet-pro/dsa-progress/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/praneet-pro/dsa-progress/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/praneet-pro/dsa-progress/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/praneet-pro/dsa-progress/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/praneet-pro/dsa-progress/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/praneet-pro/dsa-progress/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/praneet-pro/dsa-progress/tree/master/0203-remove-linked-list-elements) |

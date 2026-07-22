@@ -48,6 +48,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [1004-max-consecutive-ones-iii](https://github.com/praneet-pro/dsa-progress/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/praneet-pro/dsa-progress/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/praneet-pro/dsa-progress/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/praneet-pro/dsa-progress/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/praneet-pro/dsa-progress/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/praneet-pro/dsa-progress/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/praneet-pro/dsa-progress/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -183,11 +184,13 @@ Each solution includes comments explaining the core idea and invariant.
 | [0143-reorder-list](https://github.com/praneet-pro/dsa-progress/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/praneet-pro/dsa-progress/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/praneet-pro/dsa-progress/tree/main/0496-next-greater-element-i/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/praneet-pro/dsa-progress/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/praneet-pro/dsa-progress/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/praneet-pro/dsa-progress/tree/main/0496-next-greater-element-i/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/praneet-pro/dsa-progress/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bit Manipulation
 |  |
 | ------- |

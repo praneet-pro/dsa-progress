@@ -208,6 +208,7 @@ Each solution includes comments explaining the core idea and invariant.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/praneet-pro/dsa-progress/tree/main/0322-coin-change/) | Medium |
 | [0463-island-perimeter](https://github.com/praneet-pro/dsa-progress/tree/master/0463-island-perimeter) |
@@ -259,12 +260,14 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/praneet-pro/dsa-progress/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/praneet-pro/dsa-progress/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/praneet-pro/dsa-progress/tree/master/0463-island-perimeter) |
@@ -272,6 +275,7 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/praneet-pro/dsa-progress/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Memoization

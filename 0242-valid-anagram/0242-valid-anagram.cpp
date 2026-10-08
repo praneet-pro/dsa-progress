@@ -3,16 +3,16 @@ public:
     bool isAnagram(string s, string t) {
         if(s.size() != t.size()) return false;
 
-        int input[26];
-        int target[26];
+        // optimized for space complexity 
+        int count[26] = {0};
 
         for(int i = 0; i < s.size(); i++) {
-            input[s[i] - 'a']++;
-            target[t[i] - 'a']++;
+            count[s[i] - 'a']++;
+            count[t[i] - 'a']--;
         }
 
         for(int i = 0; i < 26; i++) {
-            if(input[i] != target[i]) return false;
+            if(count[i] != 0) return false;
         }
         return true;
     }

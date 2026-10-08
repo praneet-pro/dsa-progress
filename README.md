@@ -85,6 +85,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0003-longest-substring-without-repeating-characters](https://github.com/praneet-pro/dsa-progress/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/praneet-pro/dsa-progress/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/praneet-pro/dsa-progress/tree/main/0076-minimum-window-substring/) | Hard |
+| [0242-valid-anagram](https://github.com/praneet-pro/dsa-progress/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/praneet-pro/dsa-progress/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/praneet-pro/dsa-progress/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/praneet-pro/dsa-progress/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -103,6 +104,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0146-lru-cache](https://github.com/praneet-pro/dsa-progress/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/praneet-pro/dsa-progress/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/praneet-pro/dsa-progress/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/praneet-pro/dsa-progress/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/praneet-pro/dsa-progress/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/praneet-pro/dsa-progress/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/praneet-pro/dsa-progress/tree/main/0496-next-greater-element-i/) | Easy |
@@ -293,6 +295,7 @@ Each solution includes comments explaining the core idea and invariant.
 | ------- |
 | [0056-merge-intervals](https://github.com/praneet-pro/dsa-progress/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/praneet-pro/dsa-progress/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/praneet-pro/dsa-progress/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/praneet-pro/dsa-progress/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/praneet-pro/dsa-progress/tree/master/0973-k-closest-points-to-origin) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/praneet-pro/dsa-progress/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |

@@ -38,6 +38,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0300-longest-increasing-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/praneet-pro/dsa-progress/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/praneet-pro/dsa-progress/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/praneet-pro/dsa-progress/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/praneet-pro/dsa-progress/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -108,6 +109,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0202-happy-number](https://github.com/praneet-pro/dsa-progress/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/praneet-pro/dsa-progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/praneet-pro/dsa-progress/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/praneet-pro/dsa-progress/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/praneet-pro/dsa-progress/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/praneet-pro/dsa-progress/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/praneet-pro/dsa-progress/tree/main/0496-next-greater-element-i/) | Easy |
@@ -252,12 +254,14 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/praneet-pro/dsa-progress/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/praneet-pro/dsa-progress/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/praneet-pro/dsa-progress/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/praneet-pro/dsa-progress/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/praneet-pro/dsa-progress/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/praneet-pro/dsa-progress/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/praneet-pro/dsa-progress/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
@@ -300,12 +304,14 @@ Each solution includes comments explaining the core idea and invariant.
 | [0056-merge-intervals](https://github.com/praneet-pro/dsa-progress/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/praneet-pro/dsa-progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/praneet-pro/dsa-progress/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/praneet-pro/dsa-progress/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/praneet-pro/dsa-progress/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/praneet-pro/dsa-progress/tree/master/0973-k-closest-points-to-origin) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/praneet-pro/dsa-progress/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/praneet-pro/dsa-progress/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/praneet-pro/dsa-progress/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
@@ -340,4 +346,12 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/praneet-pro/dsa-progress/tree/master/0239-sliding-window-maximum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/praneet-pro/dsa-progress/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/praneet-pro/dsa-progress/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

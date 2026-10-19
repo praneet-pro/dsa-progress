@@ -271,6 +271,7 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/praneet-pro/dsa-progress/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -279,6 +280,7 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/praneet-pro/dsa-progress/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -287,6 +289,7 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/praneet-pro/dsa-progress/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -359,5 +362,6 @@ Each solution includes comments explaining the core idea and invariant.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->

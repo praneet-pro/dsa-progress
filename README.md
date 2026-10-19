@@ -274,6 +274,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0100-same-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -289,6 +290,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0100-same-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0700-search-in-a-binary-search-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -354,4 +356,8 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/praneet-pro/dsa-progress/tree/master/0347-top-k-frequent-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->

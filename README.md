@@ -277,6 +277,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0098-validate-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praneet-pro/dsa-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0700-search-in-a-binary-search-tree) |
@@ -287,6 +288,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0098-validate-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/praneet-pro/dsa-progress/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praneet-pro/dsa-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -297,6 +299,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0098-validate-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praneet-pro/dsa-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0700-search-in-a-binary-search-tree) |
@@ -369,6 +372,15 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praneet-pro/dsa-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->

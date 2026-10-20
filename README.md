@@ -277,6 +277,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0098-validate-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/praneet-pro/dsa-progress/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praneet-pro/dsa-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -288,6 +289,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0098-validate-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/praneet-pro/dsa-progress/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/praneet-pro/dsa-progress/tree/master/0463-island-perimeter) |
@@ -299,6 +301,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0098-validate-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/praneet-pro/dsa-progress/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praneet-pro/dsa-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -372,6 +375,7 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/praneet-pro/dsa-progress/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praneet-pro/dsa-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0700-search-in-a-binary-search-tree) |

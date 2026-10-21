@@ -223,6 +223,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0226-invert-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/praneet-pro/dsa-progress/tree/main/0322-coin-change/) | Medium |
 | [0463-island-perimeter](https://github.com/praneet-pro/dsa-progress/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/praneet-pro/dsa-progress/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praneet-pro/dsa-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Linked List
 |  |
@@ -293,6 +294,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praneet-pro/dsa-progress/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/praneet-pro/dsa-progress/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/praneet-pro/dsa-progress/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praneet-pro/dsa-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
@@ -387,4 +389,12 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/praneet-pro/dsa-progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/praneet-pro/dsa-progress/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/praneet-pro/dsa-progress/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

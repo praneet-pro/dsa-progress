@@ -33,6 +33,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0198-house-robber](https://github.com/praneet-pro/dsa-progress/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/praneet-pro/dsa-progress/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/praneet-pro/dsa-progress/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/praneet-pro/dsa-progress/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/praneet-pro/dsa-progress/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/praneet-pro/dsa-progress/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -154,6 +155,7 @@ Each solution includes comments explaining the core idea and invariant.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/praneet-pro/dsa-progress/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/praneet-pro/dsa-progress/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/praneet-pro/dsa-progress/tree/main/1004-max-consecutive-ones-iii/) | Medium |

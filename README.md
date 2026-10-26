@@ -18,6 +18,7 @@ Each solution includes comments explaining the core idea and invariant.
 | ------- |
 | [0001-two-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/praneet-pro/dsa-progress/tree/main/0011-container-with-most-water/) | Medium |
+| [0036-valid-sudoku](https://github.com/praneet-pro/dsa-progress/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/praneet-pro/dsa-progress/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/praneet-pro/dsa-progress/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/praneet-pro/dsa-progress/tree/master/0057-insert-interval) |
@@ -102,6 +103,7 @@ Each solution includes comments explaining the core idea and invariant.
 | ------- |
 | [0001-two-sum](https://github.com/praneet-pro/dsa-progress/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praneet-pro/dsa-progress/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0036-valid-sudoku](https://github.com/praneet-pro/dsa-progress/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/praneet-pro/dsa-progress/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/praneet-pro/dsa-progress/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/praneet-pro/dsa-progress/tree/main/0141-linked-list-cycle/) | Easy |
@@ -340,6 +342,7 @@ Each solution includes comments explaining the core idea and invariant.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/praneet-pro/dsa-progress/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/praneet-pro/dsa-progress/tree/master/0463-island-perimeter) |
 ## Design
 |  |

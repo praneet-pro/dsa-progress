@@ -25,6 +25,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0078-subsets](https://github.com/praneet-pro/dsa-progress/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/praneet-pro/dsa-progress/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/praneet-pro/dsa-progress/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/praneet-pro/dsa-progress/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/praneet-pro/dsa-progress/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/praneet-pro/dsa-progress/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praneet-pro/dsa-progress/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -106,6 +107,7 @@ Each solution includes comments explaining the core idea and invariant.
 | [0036-valid-sudoku](https://github.com/praneet-pro/dsa-progress/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/praneet-pro/dsa-progress/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/praneet-pro/dsa-progress/tree/main/0076-minimum-window-substring/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/praneet-pro/dsa-progress/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/praneet-pro/dsa-progress/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/praneet-pro/dsa-progress/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/praneet-pro/dsa-progress/tree/master/0146-lru-cache) |
@@ -401,6 +403,7 @@ Each solution includes comments explaining the core idea and invariant.
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/praneet-pro/dsa-progress/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/praneet-pro/dsa-progress/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
